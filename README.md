@@ -56,8 +56,8 @@ The results can support:
 ```text
 market-basket-analysis/
 │
-├── Market_Basket_Analysis.ipynb
-├─Market Basket Analysis - Final Research Report
+├── Market Basket Analysis - Final Research Report
+├─ Market_Basket_Analysis.ipynb
 └── README.md
 ```
 
